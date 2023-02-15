@@ -3,4 +3,4 @@ Este repositorio sera para administrar los proyectos de Data Science que vaya ut
 
 
 
-![] (https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif)
+![](https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif)
